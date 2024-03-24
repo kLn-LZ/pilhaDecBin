@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pilhaint">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/Pilhaint.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
